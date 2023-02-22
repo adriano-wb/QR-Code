@@ -31,7 +31,7 @@ p {
 }
 
 .qr-container {
-  box-shadow: 1px 1px 5px var(--light-gray);
+  box-shadow: 1px 1px 13px #3338;
   border-radius: 20px;
   background-color: var(--white);
   margin: 0 auto;
