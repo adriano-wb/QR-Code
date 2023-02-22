@@ -48,6 +48,7 @@ p {
 .qr-container p {
   text-align: center;
 }
+
 .qr-container h1 {
   color: var(--dark-blue);
   font-size: 1.4rem;
