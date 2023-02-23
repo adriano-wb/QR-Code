@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap');
+7@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap');
 
 * {
   border: none;
@@ -24,10 +24,6 @@ body {
 img {
   height: auto;
   width: 100%;
-}
-
-p {
-  font-size: 15px;
 }
 
 .qr-container {
