@@ -26,14 +26,18 @@ img {
   width: 100%;
 }
 
+p {
+  font-size: 15px;
+}
+
 .qr-container {
-  box-shadow: 1px 1px 13px #3338;
+  box-shadow: 1px 1px 5px var(--light-gray);
   border-radius: 20px;
   background-color: var(--white);
   margin: 0 auto;
   width: 290px;
-  padding: 18px;
-  padding-bottom: 30px;
+  padding: 17px;
+  padding-bottom: 26px;
 }
 
 .qr-container img {
@@ -44,7 +48,6 @@ img {
 .qr-container p {
   text-align: center;
 }
-
 .qr-container h1 {
   color: var(--dark-blue);
   font-size: 1.4rem;
@@ -55,4 +58,13 @@ img {
   color: var(--grayish-blue);
   font-size: 16px;
   padding: 17px 6px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  background-color: #F3F3F3;
+  padding: 5px 0;
+  width: 100%;
 }
